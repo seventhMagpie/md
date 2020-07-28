@@ -15,7 +15,8 @@ git clone https://github.com/seventhMagpie/dva-library.git
 #### 4.提交一次更改
 
 ```
-git add . && commit -m "feat: todos"
+git add .
+git commit -m "feat: todos"
 git push
 ```
 
