@@ -1,15 +1,19 @@
 #### 1.获取项目代
 
-```c#
+```html
 git clone https://github.com/seventhMagpie/dva-library.git
 ```
 
 #### 2.查看package.json，安装项目依赖。
 
-![Image text](img/git-operate-package-1.jpg)
-![Image text](https://github.com/seventhMagpie/md/blob/master/img/git-operate-package-1.jpg)
-#### 3.项目需求迭代开发
+![Image package.json](img/git-operate-package-1.jpg)
 
-#### 4.完成一次需求开发
+#### 3.完成一次项目需求迭代开发
 
-#### 5.提交一次更改
+![Image package.json](img/git-operate-commit-1.jpg)
+
+#### 4.提交一次更改
+
+```
+git add .
+```
